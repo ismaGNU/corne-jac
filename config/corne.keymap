@@ -19,7 +19,7 @@
 
         combo_system_layer {
             bindings = <&to 3>;
-            key-positions = <40 30>;
+            key-positions = <40 39 41>;
         };
     };
 
